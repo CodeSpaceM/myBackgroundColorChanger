@@ -1,2 +1,2 @@
 # myBackgroundColorChanger
-- A random background color chnager app.
+- A random background color changer app.
